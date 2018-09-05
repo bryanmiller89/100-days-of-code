@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log - [Bryan Miller]
 
-The log of my #100DaysOfCode challenge. Started on [August 30, Thursday, 2018].
+The log of my #100DaysOfCode challenge. Started on [September 3, Monday, 2018].
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
