@@ -19,4 +19,5 @@
 **Thoughts** CSS Flexbox was a topic I was already introduced to but wanted to go over since I feel like I stumble a lot on the design aspect of my projects. I never learned the CSS grids before so that was nice to discover as an alternative. I was familiar with media queries and responsive design properties but, again, I wanted to go over them to reinforce my understanding of the topics.
 
 **Link(s) to work**
+
 [Tribute Page](https://github.com/bryanmiller89/tribute-page)
