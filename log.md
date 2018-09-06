@@ -12,6 +12,11 @@
 
 **Thoughts** I brushed up on things I already knew but also was re-introduced to things I was not entirely familiar with, such as pseudo-classes in CSS. Went through and finished the JS section as well. Object bracket notion was surprisingly giving me some trouble to access certain properties on objects. This definitely helped my previously knowledge on the topic.
 
+### Day 2: September 5, 2018, Wednesday
+
+**Today's Progress**: Reviewed CSS Flexbox and played around with CSS grid system for the first time. Went over media queries for changing browser page based on different viewport sizes. Looked over the CSS properties needed to make images on a webpage responsive and scale when resizing the browser window.
+
+**Thoughts** CSS Flexbox was a topic I was already introduced to but wanted to go over since I feel like I stumble a lot on the design aspect of my projects. I never learned the CSS grids before so that was nice to discover as an alternative. I was familiar with media queries and responsive design properties but, again, I wanted to go over them to reinforce my understanding of the topics.
+
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+[Tribute Page](https://github.com/bryanmiller89/tribute-page)
