@@ -21,3 +21,9 @@ The log of my #100DaysOfCode challenge. Started on [September 3, Monday, 2018].
 
 **Link(s) to work:**
 [Tribute Page](https://github.com/bryanmiller89/tribute-page)
+
+### Day 3: September 6, 2018, Thursday
+
+**Today's Progress**: Started work on a Survey Form project. Getting a lot more familiar with the process for starting up projects with boilerplate code. Spent most of my day getting involved in an internship opportunity which is both exciting and nerve inducing.
+
+**Thoughts** I need to keep in mind that not remembering certain CSS attribute, however "simple" they may seem, is okay. As discovered from my TechHire Meetup, the important thing is being able to search to find the correct attribute to use rather than memorizing all of them. "There is way too much to know for a single person to be memorizing things like CSS properties. Being able to implement them is the important thing." Quote from one of the TechHire Meetup event hosts.
